@@ -2,6 +2,8 @@
 
 CU Boulder Mechanical Engineering sophomore focusing on **robotics, additive manufacturing, and product design**.
 
+I take napkin-sketch ideas and turn them into real, working prototypes — if you can imagine it, I can build it.
+
 [📄 View My Resume](resume.pdf)
 
 ---
