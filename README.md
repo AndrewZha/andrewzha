@@ -4,10 +4,11 @@ CU Boulder Mechanical Engineering sophomore focusing on **robotics, additive man
 ---
 ***Here are some of my most impactful projects***:
 
-- [(WIP)Communication Device for Special Needs Final Project]([LINK])
+- [Communication Device for Special Needs Final Project](https://github.com/AndrewZha/Special-Needs-Communication-Device)
 - [OtterProducts Electronics Enclosure](https://github.com/AndrewZha/OtterProducts-Electronics-Enclosure)
-- [XR-Airfoil Design Controller](https://github.com/AndrewZha/XR-Airfoil-Design-Controller)
+- [(WIP) Solar Ovenator]([LINK])
 - [Robot Kit Development](https://github.com/AndrewZha/Robot-Kit-Development)
+- [XR-Airfoil Design Controller](https://github.com/AndrewZha/XR-Airfoil-Design-Controller)
 
 ---
 ***Here is some of the work I've done for OtterBox:***
