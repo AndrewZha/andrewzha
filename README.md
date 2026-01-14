@@ -11,7 +11,7 @@ I take napkin-sketch ideas and turn them into real, working prototypes — if yo
 
 - [Communication Device for Special Needs Final Project](https://github.com/AndrewZha/Special-Needs-Communication-Device)
 - [OtterProducts Electronics Enclosure](https://github.com/AndrewZha/OtterProducts-Electronics-Enclosure)
-- [(WIP) Solar Ovenator]([LINK])
+- [Solar Ovenator](https://github.com/AndrewZha/Solar-Ovenator)
 - [Robot Kit Development](https://github.com/AndrewZha/Robot-Kit-Development)
 - [XR-Airfoil Design Controller](https://github.com/AndrewZha/XR-Airfoil-Design-Controller)
 
