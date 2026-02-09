@@ -19,7 +19,7 @@ I take napkin-sketch ideas and turn them into real, working prototypes — if yo
 ***Here is some of the work I've done for OtterBox:***
 - [OtterProducts Electronics Enclosure](https://github.com/AndrewZha/OtterProducts-Electronics-Enclosure)
 - [(WIP)Protolab Examples]([LINK])
-- [(WIP)Texture Displacement Process Using KeyShot]([LINK])
+- [(WIP)Texture Displacement Process Using KeyShot](https://github.com/AndrewZha/Keyshot-Texture-Displacement)
 
 ---
 ***Here are some more projects that showcase my CAD Modeling:***
